@@ -1,5 +1,5 @@
 # Project Name
-> interview-action - "J" interview assignment.
+> j-interview-1 - "J" interview assignment.
 
 ## Table of contents
 * [General info](#general-info)
@@ -27,7 +27,7 @@ I am intentionally omitting company-specific details about this assignment.
 * Install Microsoft Visual Studio 2019, Community Edition
 * Open Visual Studio 2019
 * When prompted, select "Clone a repository"
-* Repository: https://github.com/kevin-s-white/interview-action
+* Repository: https://github.com/kevin-s-white/j-interview-1
 * Select an empty folder for the "Path"
 * Clone the repository
 * Open the "Action.sln" solution file
